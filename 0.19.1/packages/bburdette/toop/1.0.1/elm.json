@@ -1,0 +1,15 @@
+{
+    "type": "package",
+    "name": "bburdette/toop",
+    "summary": "tuple-like datastructure allowing more than 3 elements.",
+    "license": "MIT",
+    "version": "1.0.1",
+    "exposed-modules": [
+        "Toop"
+    ],
+    "elm-version": "0.19.0 <= v < 0.19.2",
+    "dependencies": {
+        "elm/core": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {}
+}
